@@ -16,7 +16,7 @@ Throughout the year-long project, Sora will begin streaming on her own Discord s
 
 ## Component Diagram
 
-![SORA Component Diagram](https://lh7-us.googleusercontent.com/_2D-9QpFSEjziTdr2vXfx-GfekIaEg2YkiJimaxY2AUqMPYWDzSPuM139GbkSLmqE-PjdqAzWZduaiu18TVcRK3Gddu6PLszuJX20f34Hxpx21RdnxswN_fXSZM0b0KaVXotj9yOi4wE7_TEWNg2jwU)
+![SORA Component Diagram](https://drive.google.com/file/d/1kma25IZwK_lJHpYgmzNBX3sn53Thg3Zf/view?usp=sharing)
 
 The SORA program consists of several key components:
 
@@ -61,7 +61,8 @@ The ultimate objective of SORA is to attain full autonomy, allowing it to handle
 
 ## Sequential Request Chart
 
-![Sequential Request Chart](image-link-here)
+![Sequential Request Chart](https://drive.google.com/file/d/1l8ft29wAiqRo0Arl2oHA-LaiuElND9DN/view?usp=sharing)
+
 
 This chart represents the backend of the sequential request process. It outlines the step-by-step plan that SORA follows to fetch the right data.
 
